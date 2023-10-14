@@ -43,7 +43,7 @@
   
 
 .emoji{
-    background-image: url('/Ruta-Cruasan-main/images/kebab.png');
+    background-image: url('/images/kebab.png');
     background-size: cover;
     width: 30px;
     height: 30px;
@@ -71,7 +71,7 @@
 }
 
 .marker {
-    background-image: url('/Ruta-Cruasan-main/images/burrito.png');
+    background-image: url('/images/burrito.png');
     background-size: cover;
     width: 40px;
     height: 40px;
