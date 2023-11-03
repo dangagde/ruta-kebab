@@ -13,7 +13,7 @@ const geojson = {
         'properties': {
           'title': 'Aladdin',
           'location': 'C. Juan Antonio Cavestany, 6',
-          'description': 'Parada 1'
+          'description': '13:00-16:30 / 20:00-23:30'
           
         }
       },
@@ -26,7 +26,7 @@ const geojson = {
         'properties': {
           'title': 'Kebab Torneo',
           'location': 'C. Avicena, 5',
-          'description': 'Parada 2'
+          'description': '12:30-16:30 / 20:30-00:30'
         }
       },
       {
@@ -38,7 +38,7 @@ const geojson = {
         'properties': {
           'title': 'Cavaleri',
           'location': 'C. Atenea, 12, Mairena del Aljarafe',
-          'description': 'Parada 3'
+          'description': '12:30-03:00'
           
         }
       },
@@ -51,7 +51,7 @@ const geojson = {
         'properties': {
           'title': 'Pepe Kebab',
           'location': 'Mega Ocio, Bormujos',
-          'description': 'Parada 4'
+          'description': '13:30-16:30 / 20:00-00:00'
           
         }
       },
@@ -64,7 +64,7 @@ const geojson = {
         'properties': {
           'title': 'Queen Kebab y Pizzería',
           'location': 'C. Eva Cervantes',
-          'description': 'Parada 5'
+          'description': '-'
           
         }
       },
@@ -77,7 +77,7 @@ const geojson = {
         'properties': {
           'title': 'Kebab Agadir',
           'location': 'C. Mejillón, 10',
-          'description': 'Parada 6'
+          'description': '13:00-17:00 / 19:30-01:00'
           
         }
       },
@@ -90,7 +90,7 @@ const geojson = {
         'properties': {
           'title': 'Kebap Anatolia',
           'location': 'Av. de España, 108, Dos Hermanas',
-          'description': 'Parada 7'
+          'description': '13:00-16:30 / 20:00-01:00'
           
         }
       },
@@ -103,7 +103,7 @@ const geojson = {
         'properties': {
           'title': 'Petra Kebab',
           'location': 'C. Sta. María la Blanca, 13',
-          'description': 'Parada 8'
+          'description': '-'
           
         }
       },
@@ -116,7 +116,33 @@ const geojson = {
         'properties': {
           'title': 'Magdalena Pizzería Kebab',
           'location': 'C. Murillo, 8',
-          'description': 'Parada 8'
+          'description': '20:00-06:00'
+          
+        }
+      },
+      {
+        'type': 'Feature',
+        'geometry': {
+          'type': 'Point',
+          'coordinates':   [-5.9988984441928315, 37.38215246393166]
+        },
+        'properties': {
+          'title': 'El Egipcio',
+          'location': 'C. Betis, 52',
+          'description': '19:00-00:30'
+          
+        }
+      },
+      {
+        'type': 'Feature',
+        'geometry': {
+          'type': 'Point',
+          'coordinates':   [-5.9910530456578215, 37.390704868798025]
+        },
+        'properties': {
+          'title': 'Kebab alfalfa Salah eddin',
+          'location': 'C. Pérez Galdós, 15',
+          'description': '12:00-03:00'
           
         }
       },
@@ -129,7 +155,7 @@ const geojson = {
         'properties': {
           'title': 'Bami Kebab',
           'location': 'C. Castillo de Alcala de Guadaira, 8',
-          'description': 'Parada 8'
+          'description': '13:00-23:45'
           
         }
       }
